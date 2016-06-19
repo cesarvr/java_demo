@@ -1,5 +1,5 @@
 ## P2HService
-Is just a small java project to test [ella](https://github.com/cesarvr/Ella) and [LibJNI](https://github.com/cesarvr/JNI), it has overlodaded method and some PDFBox,iText quick and dirty code. 
+Is just a small java project to test [ella](https://github.com/cesarvr/Ella) and [LibJNI](https://github.com/cesarvr/JNI), just to test method overload, thread sleep, pdf generation, etc.
 
 
 ##Dependencies 
